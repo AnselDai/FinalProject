@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "新加坡康莱德酒店",
+    "picture": "images/Singapor.jfif",
+    "location": "新加坡滨海湾的中心地带"
+  },
+  {
+    "id": 1,
+    "name": "东京巨蛋酒店",
+    "picture": "images/Japn.jfif",
+    "location": "日本东京水道桥御茶水"
+  },
+  {
+    "id": 2,
+    "name": "澳门银河酒店",
+    "picture": "images/mako.jfif",
+    "location": "澳门路氹城大马路"
+  },
+  {
+    "id": 3,
+    "name": "香港黄金海岸酒店",
+    "picture": "images/hongkong.jfif",
+    "location": "香港黄金海岸青山公路1号"
+  },
+  {
+    "id": 4,
+    "name": "香港帝景大酒店",
+    "picture": "images/haojing.jfif",
+    "location": "香港青山公路353号"
+  },
+  {
+    "id": 5,
+    "name": "香港帝景大酒店",
+    "picture": "images/haojing.jfif",
+    "location": "香港青山公路353号"
+  }
+]
